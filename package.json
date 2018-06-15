@@ -21,7 +21,8 @@
     "joi": "^13.2.0",
     "js-yaml": "^3.11.0",
     "merge-object-files": "^2.0.0",
-    "swagger-parser": "^4.1.0"
+    "swagger-parser": "^4.1.0",
+    "hapi-async-handler": "^1.0.3"
   },
   "devDependencies": {
     "boom": "^7.2.0",
